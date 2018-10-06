@@ -1,6 +1,6 @@
-# Demo Git repository
+# wes and wave are cool
 
-this is the file in this repo.
+This is why
 
-## webs
-1. html
+## why wes and wave are cool
+1. there nice
