@@ -1,6 +1,6 @@
-# wes and wave are cool
+# wes is cool
 
 This is why
 
-## why wes and wave are cool
-1. they're nice
+## why wes is cool
+1. wes nice
