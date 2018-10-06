@@ -3,4 +3,4 @@
 This is why
 
 ## why wes and wave are cool
-1. there nice
+1. they're nice
