@@ -1,7 +1,7 @@
-# wes is cool
+# wes and hyde are  cool
 
 This is why
 
-## why wes is cool
-1. wes nice
-2. wes is smart
+## why wes and hyde are cool
+1. their nice
+2. thier smart
